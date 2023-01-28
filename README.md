@@ -1,6 +1,6 @@
 # libspinners-cpp
 
-[![](https://img.shields.io/github/v/tag/thechampagne/libspinners-hpp?label=version)](https://github.com/thechampagne/libspinners-hpp/releases/latest) [![](https://img.shields.io/github/license/thechampagne/libspinners-hpp)](https://github.com/thechampagne/libspinners-hpp/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/tag/thechampagne/libspinners-cpp?label=version)](https://github.com/thechampagne/libspinners-cpp/releases/latest) [![](https://img.shields.io/github/license/thechampagne/libspinners-cpp)](https://github.com/thechampagne/libspinners-cpp/blob/main/LICENSE)
 
 C++ binding for **libspinners** an elegant terminal spinners.
 
@@ -24,4 +24,4 @@ int main(void)
 
 ### License
 
-This repo is released under the [MIT](https://github.com/thechampagne/libspinners-hpp/blob/main/LICENSE).
+This repo is released under the [MIT](https://github.com/thechampagne/libspinners-cpp/blob/main/LICENSE).
