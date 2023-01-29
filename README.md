@@ -4,7 +4,7 @@
 
 C++ binding for **libspinners** an elegant terminal spinners.
 
-### API
+### Example
 
 ```cpp
 #include <unistd.h> // use #include <windows.h> for windows
