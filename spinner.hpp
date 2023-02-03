@@ -31,9 +31,8 @@ namespace spinner {
 
   class Spinner {
     spinner_t spinner;
-  public:
-
     Spinner() {}
+  public:
     Spinner(Spinners spinner, const std::string& message)
     {
       this->spinner = spinner_new(spinner, message.c_str());
